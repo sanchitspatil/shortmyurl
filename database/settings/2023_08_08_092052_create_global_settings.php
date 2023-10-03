@@ -12,7 +12,7 @@ return new class extends SettingsMigration
         $this->migrator->add('global_settings.site_favicon', '');
         $this->migrator->add('global_settings.site_currency', 'GBP');
         $this->migrator->add('global_settings.site_language', 'en');
-        $this->migrator->add('global_settings.extra_settings', json_encode([]));
+        $this->migrator->add('global_settings.extra_settings', []);
         $this->migrator->add('global_settings.currency_symbol','£');
         // SMTP settings
         $this->migrator->add('global_settings.smtp_mailer', 'smtp');
