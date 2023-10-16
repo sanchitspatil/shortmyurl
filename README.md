@@ -1,4 +1,5 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank">
+<img src="https://banners.beyondco.de/Short-My-URL.png?theme=light&packageManager=&packageName=&pattern=architect&style=style_1&description=A+simple+self-hosted+URL+Shortener+for+your+next+project.&md=1&showWatermark=0&fontSize=100px&images=selector" width="600" alt="SMY Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
